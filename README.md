@@ -12,6 +12,7 @@
 > > <p align="left">
 > >
 > > <strong>Programming Languages</strong><br/>
+> >  
 > > <a href="https://www.python.org" target="_blank" rel="noreferrer">
 > >   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 > > </a>
@@ -31,6 +32,7 @@
 > > <br/><br/>
 > >
 > > <strong>Frontend Frameworks & Libraries</strong><br/>
+> >
 > > <a href="https://angular.io" target="_blank" rel="noreferrer">
 > >   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 > > </a>
@@ -47,6 +49,7 @@
 > > <br/><br/>
 > >
 > > <strong>Backend & Databases</strong><br/>
+> >
 > > <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 > >   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 > > </a>
@@ -72,6 +75,7 @@
 > > <br/><br/>
 > >
 > > <strong>Data Science & Machine Learning</strong><br/>
+> >
 > > <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
 > >   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
 > > </a>
@@ -88,6 +92,7 @@
 > > <br/><br/>
 > >
 > > <strong>Tools & Platforms</strong><br/>
+> >
 > > <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 > >   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 > > </a>
