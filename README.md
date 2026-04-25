@@ -46,26 +46,7 @@ My main focus is <b>Data Science, Machine Learning, and NLP</b>, where I build m
 - Text Classification
 - Retrieval-Augmented Generation (RAG)
 - Feature Engineering & Model Optimization
-
----
-
-## 📌 Projects
-
-### 📧 Email Spam Detection (TinyBERT)
-- Built a **text classification model** using TinyBERT
-- Fine-tuned transformer for **spam vs not spam detection**
-- Applied NLP preprocessing + optimization techniques
-- Achieved strong performance on unseen email data
-
-### 🏥 RAG System for Respiratory Diagnosis *(Ongoing)*
-- Retrieval-Augmented Generation pipeline for medical assistance
-- Combines LLMs + medical knowledge retrieval
-- هدف: دعم التشخيص الطبي بالذكاء الاصطناعي
-
-### 🐄 Animal Health Monitoring (IoT + AI)
-- Multi-sensor system (heart rate, temperature, movement)
-- Predictive analysis for animal health monitoring
-
+  
 ---
 
 ## 📊 GitHub Stats
